@@ -1,2 +1,2 @@
-﻿USM - Computación Científia  
-2020-1
+# Computación Científia  
+USM 2020-1
